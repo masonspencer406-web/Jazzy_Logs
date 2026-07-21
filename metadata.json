@@ -1,0 +1,6 @@
+{
+  "name": "Jazzy_Logs",
+  "description": "Digital solutions marketplace for authorized digital products and communication services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
